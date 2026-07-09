@@ -1,0 +1,19 @@
+{
+  "version": "0.1.0-alpha.4",
+  "notes": "",
+  "pub_date": "2026-07-09T03:06:23.392Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWFFVNS9ya2lqWTZkMXVrR0dHdzl5bGZqVFRMSTROaDd6eGxVanhmWDIzRlFkRmtZMExobXpXSXlaNi9tNm9DVERrTHh1Q2M4dk0rcTBFR2ZhWkc1NUIzcm9yU2JibUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNTY2MTU5CWZpbGU6UnZpc2lvbi5hcHAudGFyLmd6Cm5oSEQ2aDk1TGd0dWdSK2hTN0RhS216QTRoTHp4VjdRaWtSU0FkZG1OR3BXNXVXT0NwbzJIRVRCdEtDNEZLeUNWeExScklnaGY1cU5Dc1IyWVZDekFBPT0K",
+      "url": "https://github.com/liuapart/rvision-release/releases/download/v0.1.0-alpha.4/Rvision-darwin-aarch64.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWFFVNS9ya2lqWS8vOTMrQjlOUjY3QTdBdWZ0V2lQZUZSZk90cUZCZlB1NTFHYW9VWjVRbFpnZW8wY0JUeTlDb1lqQ2hHbU54K240NEVhWnpiUnBRRndOMFNuUTRNUGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNTY2Mjk5CWZpbGU6UnZpc2lvbi5hcHAudGFyLmd6Cm9KdzVZOXZJL1BKd3BmNDEyTGJKdHRBRDdMTmpvNGc4S2kzOEJTeGt5QUQzbWZTQzNGTTZieGtOK0JCeExyejlOYndmMjhaSy9pcjZlM1g1QkcrT0JRPT0K",
+      "url": "https://github.com/liuapart/rvision-release/releases/download/v0.1.0-alpha.4/Rvision-darwin-x86_64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWFFVNS9ya2lqWThoNzhIUzVJQ24rY0hyWkUzMS81SXRBby91cTljc29RTkhXaEgyLzhGaTIwd1pXYUZOeUo3VkVXZlR6cFNWa1Z4KzA1cUtUdkZJMld5MVBqR05FM2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNTY2MzU1CWZpbGU6UnZpc2lvbl8wLjEuMC1hbHBoYS40X3g2NC1zZXR1cC5leGUKRWtDb25UcVFYajRqNldiaVRSWm5VYzJiMnFEb1E2SFNZbUk3RU55Q05taC8xdG9hK3NjSkQzR3dya3lZeTRUOVdMY0VkSmdMSTA4SUwwQ2t5aWdCQ0E9PQo=",
+      "url": "https://github.com/liuapart/rvision-release/releases/download/v0.1.0-alpha.4/Rvision_0.1.0-alpha.4_x64-setup.exe"
+    }
+  }
+}
